@@ -113,3 +113,8 @@ export const FormButton = styled.button`
     transform: translateY(2px);
   }
 `
+export const FormMessage = styled.p`
+  color: blue;
+  text-align: center;
+  font-weight: bold;
+`
