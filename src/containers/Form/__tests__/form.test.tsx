@@ -37,6 +37,7 @@ describe('Teste para envio do formulário', () => {
         nome: 'João Silva',
         email: 'joao@email.com',
         senha: 'senha123',
+        senhaRepeat: 'senha123',
         marketing: true,
         politica: true
       })
